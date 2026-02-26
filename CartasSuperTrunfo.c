@@ -76,7 +76,7 @@ int main() {
 
     printf("Numero de Pontos Turisticos: ");
     scanf("%d", &pontosTuristicos2);
-
+    
   // Área para exibição dos dados da cidade
     printf("\n\n=== Dados da Carta 1 ===\n");
     printf("Estado: %s\n", estado1);
